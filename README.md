@@ -17,6 +17,6 @@ Arquivo 5: ML comparação
   Neste documento, utiliza-se o dataframe criado no último passo para ser testado em diversos algoritmos de regressão, fez-se uso da biblioteca Lazypredict nesta etapa. Desta forma, pode-se eleger o que possuia o melhor score no dataframe de teste e menor erro (RMSE).
 
 Arquivo 6: ML fine tuning
-  Utilizando o GridSearchCV obteve-se os melhores hiperparâmetros para o algoritmo RandonFlorestRegressor
+  Utilizando o GridSearchCV obteve-se os melhores hiperparâmetros para o algoritmo RandonForestRegressor
   
 Este projeto foi feito graças as aulas do professor Chanin Nantasenamat.
