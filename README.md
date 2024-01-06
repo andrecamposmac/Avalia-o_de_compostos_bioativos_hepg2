@@ -1,4 +1,4 @@
-# Avalia-o_de_compostos_bioativos_hepg2
+# Avalicao_de_compostos_bioativos_hepg2
 Este repositório contém todo o projeto de avaliação de compostos bioativos para a linhagem celular HepG2, desde a extração dos dados até ML.
 
 Arquivo 1: Obtenção de dados
