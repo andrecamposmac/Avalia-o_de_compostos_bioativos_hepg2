@@ -18,5 +18,3 @@ Arquivo 5: ML comparação
 
 Arquivo 6: ML fine tuning
   Utilizando o GridSearchCV obteve-se os melhores hiperparâmetros para o algoritmo RandonForestRegressor
-  
-Este projeto foi feito graças as aulas do professor Chanin Nantasenamat.
